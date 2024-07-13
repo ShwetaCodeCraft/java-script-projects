@@ -21,6 +21,7 @@ Clone the repository:
 git clone https://github.com/ShwetaCodeCraft/java-script-projects.git
 
 Navigate to the project directory:
+
 cd java-script-projects/project-name
 Open the project:
 Open the index.html file in your preferred web browser to view the project.
