@@ -29,6 +29,7 @@ Prerequisites
 Make sure you have the following installed on your machine:
 
 A web browser (e.g., Chrome, Firefox)
+
 A code editor (e.g., VS Code, Sublime Text)
 Contributing
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please feel free to submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
