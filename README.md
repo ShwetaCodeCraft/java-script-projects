@@ -18,6 +18,7 @@ Getting Started
 To get started with any project in this repository, follow these steps:
 
 Clone the repository:
+
 git clone https://github.com/ShwetaCodeCraft/java-script-projects.git
 
 Navigate to the project directory:
