@@ -38,6 +38,7 @@ Contributing :
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please feel free to submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
 License
+
 This repository is licensed under the MIT License. See the LICENSE file for more details.
 
 Contact
