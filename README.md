@@ -2,7 +2,6 @@ JavaScript Projects
 
 
 
-
 Welcome to the JavaScript Projects repository! This repository contains a collection of various JavaScript projects that I have developed. Each project demonstrates different aspects of JavaScript, from basic functionalities to more advanced features.
 
 Projects List
